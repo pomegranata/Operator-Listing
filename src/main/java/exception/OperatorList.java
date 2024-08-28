@@ -1,15 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package exception;
 
 import java.util.*;
-
-/**
- *
- * @author Imelda Maretta Putri
- * F11.2022.00053
- */
 
 public class OperatorList {
     public static void main(String[] args) {
