@@ -59,3 +59,12 @@ Operator found: Mlynar
 ```
 Operator not found: SilverAsh is unavailable
 ```
+
+## Project Goals
+This project was developed to:
+1. Demonstrate basic exception handling in Java.
+2. Explore how to use custom exceptions in a meaningful way.
+3. Provide a simple example of a query-based application using Arknights Operators.
+
+## Contributing
+If you have suggestions for improving this project, feel free to submit a pull request or open an issue on GitHub.
